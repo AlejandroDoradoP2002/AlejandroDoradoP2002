@@ -1,7 +1,5 @@
 ## Hi there 👋  
 
-![README Banner](/mnt/data/7890ceae-e6b9-4d48-a42c-029bb2f131ea.png)  
-
 I’m **Alejandro Dorado**, a Senior Computer Science student at the University of North Florida (Dec 2025).  
 I build secure, user-centric software, machine learning solutions, and experiment in security operations.  
 
