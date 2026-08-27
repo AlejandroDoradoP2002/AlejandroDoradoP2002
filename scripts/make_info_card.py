@@ -32,7 +32,7 @@ GREEN = "#3fb950"
 ACCENT = "#22d3ee"
 
 # content model: tuples describing each row
-# ("host",)                    -> "avi@github" + rule
+# ("host",)                    -> "alejandro@github" + rule
 # ("kv", key, value)           -> orange key + light value
 # ("sec", title)               -> blue "— title —" rule
 # ("bul", text)                -> green dot + light text
